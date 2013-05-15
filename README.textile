@@ -1,3 +1,13 @@
+h2. My fork
+
+This fork contains:
+
+1. My theme, vortex
+
+2. A copy of zsh-syntax-highlighting in the plugins/ adjusted to be more fish-like (color vs underline on paths)
+
+h1. Original README follows
+
 oh-my-zsh is an open source, community-driven framework for managing your ZSH configuration. It comes bundled with a ton of helpful functions, helpers, plugins, themes, and few things that make you shout...
 
 bq. "OH MY ZSHELL!"
